@@ -1,6 +1,6 @@
 # Web Development Final Project
 
-## Online Community Therapy and Advice
+## Online Web Therapy
 
 ### Description
 
